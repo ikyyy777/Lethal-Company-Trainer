@@ -1,0 +1,20 @@
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\bin\Debug\net8.0-windows\Lethal Company Trainer.exe
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\bin\Debug\net8.0-windows\Lethal Company Trainer.deps.json
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\bin\Debug\net8.0-windows\Lethal Company Trainer.runtimeconfig.json
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\bin\Debug\net8.0-windows\Lethal Company Trainer.dll
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\bin\Debug\net8.0-windows\Lethal Company Trainer.pdb
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\bin\Debug\net8.0-windows\swed64.dll
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\Lethal Company Trainer.csproj.AssemblyReference.cache
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\Lethal_Company_Trainer.Form1.resources
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\Lethal Company Trainer.csproj.GenerateResource.cache
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\Lethal Company Trainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\Lethal Company Trainer.AssemblyInfoInputs.cache
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\Lethal Company Trainer.AssemblyInfo.cs
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\Lethal Company Trainer.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\Lethal Company Trainer.csproj.CopyComplete
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\Lethal Company Trainer.dll
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\refint\Lethal Company Trainer.dll
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\Lethal Company Trainer.pdb
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\Lethal Company Trainer.genruntimeconfig.cache
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\ref\Lethal Company Trainer.dll
+D:\Programming\C#\Lethal Trainer\Lethal Company Trainer\Lethal Company Trainer\obj\Debug\net8.0-windows\Lethal_Company_Trainer.Properties.Resources.resources
